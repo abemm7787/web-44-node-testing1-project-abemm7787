@@ -9,7 +9,7 @@
 function trimProperties(obj) {
   // ✨ implement
 }
-
+//bob is testing
 /**
  * [Exercise 2] trimPropertiesMutation trims in place the properties of an object
  * @param {object} obj - an object with properties that are strings
